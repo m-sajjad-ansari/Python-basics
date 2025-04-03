@@ -31,4 +31,5 @@ else:
 
 print("Calculating result...")
 time.sleep(2)
+result=round(result,2)
 print(f"Result is {result}")
